@@ -1,4 +1,3 @@
-
 ✨ Message Editor Bot ✨
 
 📝 Description:
@@ -23,4 +22,12 @@ This bot automatically edits messages in your channel that do not contain an ID 
 
 1️⃣ Replace the placeholders marked with "your" in the code.
 
-2️⃣ Install the required library using: pip install telethon
+2️⃣ Install the required library using: _**pip install telethon**_
+
+
+🎉 Final Notes
+Share & Like if you find this useful! ❤️
+
+Happy coding! 👨‍💻👩‍💻
+
+Goodbye, developer! 👋
